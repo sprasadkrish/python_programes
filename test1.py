@@ -1,4 +1,6 @@
 import sys
+...
 print ("Hi prasad")
 print("Python version:", sys.version)
 print("Python location:", sys.executable)
+...
